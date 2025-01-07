@@ -57,7 +57,7 @@ The user and repository information is defined in [\_data/repositories.yml](_dat
 
 You can create new pages by adding new Markdown files in the [\_pages](_pages/) directory. The easiest way to do this is to copy an existing page and modify it. You can choose the layout of the page by changing the [layout](https://jekyllrb.com/docs/layouts/) attribute in the [frontmatter](https://jekyllrb.com/docs/front-matter/) of the Markdown file, and also the path to access it by changing the [permalink](https://jekyllrb.com/docs/permalinks/) attribute. You can also add new layouts in the [\_layouts](_layouts/) directory if you feel the need for it.
 
-## Creating new blog posts
+<!-- ## Creating new blog posts
 
 To create a new blog post, you can add a new Markdown file in the [\_posts](_posts/) directory. The [name of the file must follow](https://jekyllrb.com/docs/posts/#creating-posts) the format `YYYY-MM-DD-title.md`. The easiest way to do this is to copy an existing blog post and modify it. Note that some blog posts have optional fields in the [frontmatter](https://jekyllrb.com/docs/front-matter/) that are used to enable specific behaviors or functions.
 
@@ -69,7 +69,7 @@ You can create new projects by adding new Markdown files in the [\_projects](_pr
 
 ## Adding some news
 
-You can add news in the about page by adding new Markdown files in the [\_news](_news/) directory. There are currently two types of news: inline news and news with a link. News with a link take you to a new page while inline news are displayed directly in the about page. The easiest way to create yours is to copy an existing news and modify it.
+You can add news in the about page by adding new Markdown files in the [\_news](_news/) directory. There are currently two types of news: inline news and news with a link. News with a link take you to a new page while inline news are displayed directly in the about page. The easiest way to create yours is to copy an existing news and modify it. -->
 
 ## Adding Collections
 
@@ -158,7 +158,7 @@ Depending on your specified footer behavior, the sign up form either will appear
 
 Since this template have a lot of content, you may want to delete some of it. Here is a list of the main components that you may want to delete, and how to do it. Don't forget if you delete a page, to update the `nav_order` of the remaining pages.
 
-### Removing the blog page
+<!-- ### Removing the blog page
 
 To remove the blog, you have to:
 
@@ -176,18 +176,18 @@ You can also:
 - delete [\_layouts/archive-year.liquid](_layouts/archive-year.liquid)
 - delete [\_plugins/external-posts.rb](_plugins/external-posts.rb)
 - remove the `jekyll-archives` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
-- remove the `classifier-reborn` gem from the [Gemfile](Gemfile)
+- remove the `classifier-reborn` gem from the [Gemfile](Gemfile) -->
 
-### Removing the news section
+<!-- ### Removing the news section
 
 To remove the news section, you can:
 
 - delete the [\_news](_news/) directory
 - delete the file [\_includes/news.liquid](_includes/news.liquid) and the references to it in the [\_pages/about.md](_pages/about.md)
 - remove the `announcements` part in [\_config.yml](_config.yml)
-- remove the news part in the `Collections` section in the [\_config.yml](_config.yml) file
+- remove the news part in the `Collections` section in the [\_config.yml](_config.yml) file -->
 
-### Removing the projects page
+<!-- ### Removing the projects page
 
 To remove the projects, you can:
 
@@ -199,7 +199,7 @@ To remove the projects, you can:
 You can also:
 
 - delete [\_includes/projects_horizontal.liquid](_includes/projects_horizontal.liquid)
-- delete [\_includes/projects.liquid](_includes/projects.liquid)
+- delete [\_includes/projects.liquid](_includes/projects.liquid) -->
 
 ### Removing the publications page
 
