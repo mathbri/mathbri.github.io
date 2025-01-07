@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: All the courses I have taught so far 
+description: 
 nav: true
 nav_order: 3
 ---
@@ -11,15 +11,14 @@ nav_order: 3
 
 <!-- Organize your courses by years, topics, or universities, however you like! -->
 
-## Introduction to Operations Research
+You will find below a list of all the courses I have taught so far, arrannged by topics
 
-Post-graduate course, Ecole des Ponts, 2023-2025
-
+## Introduction to Operations Research  
+_Post-graduate course, Ecole des Ponts, 2023-2025_  
 Teaching (course + exercises + hackathon) in operations research for second-year engineering students (1st year of master).
 
+--------------------------------------
 
 ## Introduction to Optimization
-
-Undergraduate course, Ecole des Ponts ParisTech, 2024-2025
-
+_Undergraduate course, Ecole des Ponts ParisTech, 2024-2025_  
 Teaching assistant (exercises + project) in (mathematical) optimization for first-year engineering students (3rd year of license).
