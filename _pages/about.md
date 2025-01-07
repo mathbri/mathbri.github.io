@@ -31,4 +31,4 @@ I am a second-year PhD student at [CERMICS](https://cermics-lab.enpc.fr/), the r
 
 My PhD thesis is part of an academic collaboration between Ecole des Ponts and Renault Group, and focuses on large-scale network design problems. My research interest is at the crossroads of operations reserach and machine learning.
 
-Before that, I graduated from Ecole des Ponts (2023) in applied mathematics and got a master’s degree from Conservatoire National des Arts et Metiers in Operations Research ([Master MPRO](https://uma.ensta-paris.fr/mpro/)).
+Before that, I graduated from Ecole des Ponts (2023) in applied mathematics and got a master’s degree from Conservatoire National des Arts et Metiers in Operations Research ([Master MPRO](https://ecoledesponts.fr/master-ro-recherche-operationnelle)).
