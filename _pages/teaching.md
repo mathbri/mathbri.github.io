@@ -17,7 +17,7 @@ You will find below a list of all the courses I have taught so far, arrannged by
 _Post-graduate course, Ecole des Ponts, 2023-2025_  
 Teaching (course + exercises + hackathon) in operations research for second-year engineering students (1st year of master).
 
---------------------------------------
+<br/><br/>
 
 ## Introduction to Optimization
 _Undergraduate course, Ecole des Ponts ParisTech, 2024-2025_  
