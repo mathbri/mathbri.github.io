@@ -11,12 +11,12 @@ nav_order: 3
 
 <!-- Organize your courses by years, topics, or universities, however you like! -->
 
-You will find below a list of all the courses I have taught so far, arrannged by topics
+You will find below a list of all the courses I have taught so far.  
+<br/><br/>
 
 ## Introduction to Operations Research  
 _Post-graduate course, Ecole des Ponts, 2023-2025_  
-Teaching (course + exercises + hackathon) in operations research for second-year engineering students (1st year of master).
-
+Teaching assistant (course + exercises + hackathon) in operations research for second-year engineering students (1st year of master).  
 <br/><br/>
 
 ## Introduction to Optimization

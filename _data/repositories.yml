@@ -4,5 +4,5 @@
 repo_description_lines_max: 2
 
 github_repos:
-  - mathbri/OFOND.jl
+  - mathbri/TransportationPlanningILS.jl
   - mathbri/Kiro24Base.jl
